@@ -14,13 +14,19 @@
         td{color:rgb(21, 117, 104);}
         
         p {background:rgb(245, 241, 220);}
-        .steps {width:50%;}
+        .steps {width:90%;}
 
-        #cookies{width:30%;}
+        #cookies{width:80%;}
+        #container{width: 500px;
+                    margin:auto;
+                  border: 3px solid rgb(125, 147, 190)  ;
+                  border-top:  15px groove rgb(125, 147, 190);
+                  padding:25px;}
         </style>
     </head>
+    
     <body>
-       
+       <div id="container">
         <h1> DoubleTree's Cookie Recipe Book</h1>
        <h1>  Michael's Favorite Choice</h1>
         <h2>Contents:</h2>
@@ -99,11 +105,11 @@
                 <td> chpped walnuts</td>
                 <td> 1.75 cups </td>
               </tr>
-            
+            <img id="cookies" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQslNt0Y1iSYZiPGjjn-s2yt9dEdE_aNfHBTQ&usqp=CAU" width="300">
             </tbody>
         </table>
         
-        <img id="cookies" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQslNt0Y1iSYZiPGjjn-s2yt9dEdE_aNfHBTQ&usqp=CAU" width="200">
+        
         
       <div  class="steps"> <p><strong>Step 1:</strong> Cream butter, sugar and brown sugar in the bowl of a stand mixer on medium speed for about 2 minutes. 
 
@@ -122,7 +128,7 @@ Preheat oven to 300°F. Bake for 20 to 23 minutes, or until edges are golden bro
 Cook’s note: You can freeze the unbaked cookies, and there’s no need to thaw. Preheat oven to 300°F and place frozen cookies on parchment paper-lined baking sheet about 2 inches apart. Bake until edges are golden brown and center is still soft.</p>
     <p><em>Source: <a href="https://newsroom.hilton.com/static-doubletree-reveals-cookie-recipe.htm?">https://newsroom.hilton.com/static-doubletree-reveals-cookie-recipe.htm</a></em></p>
     </div>
-    
+    </div>
  
-    </body>
+    </body>   
 </html>
