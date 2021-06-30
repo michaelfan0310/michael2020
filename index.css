@@ -56,7 +56,8 @@ body {
 	}
 
 .extra5 {
-	background: url(fish_top.gif) no-repeat;
+	background: url(fish_top2.gif) no-repeat;
+	
 	z-index: 7;
 	top: 220px;
 	left: 20px;
