@@ -66,22 +66,22 @@ body {
 	}
 
 .extra6 {
-	z-index: 3;
+	z-index: 2;
 	top: 205em;
 	left: 0;
 	width: 100%;
-	height: 526px;
+	height: 426px;
 	background: url(seafloor_bg.jpg) repeat-x left bottom;
 	}
 
 .extra6::after {
 	display: block;
 	content: " ";
-	z-index: 3;
+	z-index: 2;
 	top: 0;
 	left: 0;
 	width: 633px;
-	height: 526px;
+	height: 426px;
 	background: url(seafloor.jpg) no-repeat;
 }
 
