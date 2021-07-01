@@ -39,11 +39,11 @@ body {
 .extra3::after {
 	display: block;
 	content: " ";
-	background: url(fish_bottom.gif) no-repeat;
+	background: url(fish_bottom2.gif) no-repeat;
 	z-index: 3;
 	top: 1700px;
-	width: 224px;
-	height: 108px;
+	width: 165px;
+	height:110px;
 	}
 
 .extra4 {
