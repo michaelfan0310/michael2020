@@ -53,14 +53,14 @@ body {
 	top: 0;
 	left: 0;
 	width: 472px;
-	height: 481px;
+	height: 180px;
 	}
 
 .extra5 {
 	background: url(image/fish_top2.gif) no-repeat;
 	
-	z-index: 7;
-	top: 220px;
+	z-index: 13;
+	top: 120px;
 	left: 20px;
 	width: 180px;
 	height: 80px;
