@@ -24,7 +24,7 @@ body {
 	top: 104px;
 	right: 0;
 	width: 100%;
-	height: 75px;
+	height: 50px;
 	}
 
 .extra3 {
@@ -53,17 +53,17 @@ body {
 	top: 0;
 	left: 0;
 	width: 472px;
-	height: 180px;
+	height: 130px;
 	}
 
 .extra5 {
 	background: url(image/fish_top2.gif) no-repeat;
 	
 	z-index: 13;
-	top: 120px;
+	top: 90px;
 	left: 20px;
-	width: 180px;
-	height: 80px;
+	width: 160px;
+	height: 71px;
 	}
 
 .extra6 {
